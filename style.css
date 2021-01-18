@@ -1,0 +1,29 @@
+footer {
+    position: absolute;
+    bottom: 0;
+    background-color: blueviolet;
+    margin-bottom: 5px;
+    margin-right: -100%;
+    ;
+}
+
+.distribution {
+    margin: 0px;
+}
+
+.left {
+    margin-top: -10%;
+    margin: 20px;
+}
+
+.center {
+    margin-top: -10%;
+    margin-left: 35%;
+    margin-bottom: 0px;
+    padding-bottom: 20%;
+}
+
+.righ {
+    margin-top: -25%;
+    margin-left: 60%;
+}
